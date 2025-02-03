@@ -3,7 +3,7 @@
 - 👨‍💻 I'm Wai Lun (@obscurecat64), but you can call me `wai`
 - 💼 Front-end Developer by trade, tech enthusiast by nature
 - 🚀 Passionate about web tech, JavaScript ecosystems, and the art of programming languages
-- 📚 Currently diving into "Programming Language Pragmatics"
+- 📚 Currently diving into "A Retargetable C Compiler: Design and Implementation"
 - 🛠️ Always eager to collaborate on exciting projects!
 
 <!---
